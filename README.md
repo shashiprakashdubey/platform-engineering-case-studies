@@ -19,6 +19,8 @@ architecture in
 | **[Adopting click-ops resources into IaC](adopting-clickops-resources-into-iac.md)** | Bringing hand-created production resources under management without an outage or a turf war. |
 | **[Zero-downtime Shielded VM / Secure Boot rollout](zero-downtime-shielded-vm-secure-boot-rollout.md)** | Enabling a security feature that requires a VM stop, on VMs that couldn't all stop at once. |
 | **[Cost optimization with empirical safety gating](cost-optimization-with-empirical-safety-gating.md)** | Cutting cloud spend without deleting something that turns out to be load-bearing. |
+| **[Standing up a new UAT environment with Pulumi](standing-up-a-new-uat-environment-with-pulumi.md)** | Building a complete, isolated new environment from existing stacks — without writing new code. |
+| **[Disaster recovery with IaC](disaster-recovery-with-iac.md)** | Giving every resource class an explicit, rehearsed recovery path — recreate vs. restore. |
 
 ## The through-line
 
