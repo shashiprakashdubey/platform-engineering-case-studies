@@ -1,0 +1,39 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Pulumi
+Pulumi.*.yaml.bak
+.pulumi/
+*.pulumi.json
+state.json
+
+# Secrets / credentials — never commit
+.env
+.env.*
+.envrc
+*.pem
+*.p12
+*-key.json
+*-credentials.json
+*-service-account.json
+service-account-*.json
+secrets/
+*.secret
+
+# Tooling / IDE
+.vscode/
+.idea/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
