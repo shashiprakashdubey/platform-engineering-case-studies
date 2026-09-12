@@ -1,5 +1,18 @@
 # Platform Engineering Case Studies
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
+![Case studies](https://img.shields.io/badge/write--ups-7-555?style=flat-square)
+
+**What this is** — seven write-ups of infrastructure migrations I led: the problem, the
+constraints that made it non-trivial, the approach, and how I knew it worked.
+**Who it's for** — engineers about to attempt the same change, who want to know where the
+landmines are before they step on one.
+**Start here** — [Migrating from SA keys to WIF](migrating-from-sa-keys-to-wif.md) (~3 min).
+
+---
+
 Short, honest write-ups of infrastructure changes I've led — each one a real problem, the
 constraints that made it non-trivial, the approach, and how I knew it worked. They're the
 *reasoning* behind the patterns in
