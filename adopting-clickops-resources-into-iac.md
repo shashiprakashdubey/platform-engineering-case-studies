@@ -23,7 +23,7 @@ surrounding stacks risked fighting them. Two failure modes were live at once:
 
 **Adopt, don't rebuild.** Bring each resource under Pulumi *in place* via `import`, then manage
 only the one or two invariants that matter and ignore the rest. (The Pulumi shape is in
-[iac-security-patterns/adopting-clickops-into-iac](https://github.com/teamiumtree/iac-security-patterns/tree/main/adopting-clickops-into-iac).)
+[iac-security-patterns/adopting-clickops-into-iac](https://github.com/shashiprakashdubey/iac-security-patterns/tree/main/adopting-clickops-into-iac).)
 
 Per resource:
 

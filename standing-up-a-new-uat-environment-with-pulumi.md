@@ -70,4 +70,4 @@ the stacks with a new values file, deploy in dependency order." The mechanics ar
 purpose; the only real thinking is isolation, addressing, and sizing.
 
 *(Mechanics reference:
-[gcp-pulumi-reference-architecture › adding-an-environment](https://github.com/teamiumtree/gcp-pulumi-reference-architecture/blob/main/docs/adding-an-environment.md).)*
+[gcp-pulumi-reference-architecture › adding-an-environment](https://github.com/shashiprakashdubey/gcp-pulumi-reference-architecture/blob/main/docs/adding-an-environment.md).)*

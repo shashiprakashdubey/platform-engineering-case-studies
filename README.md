@@ -3,9 +3,9 @@
 Short, honest write-ups of infrastructure changes I've led — each one a real problem, the
 constraints that made it non-trivial, the approach, and how I knew it worked. They're the
 *reasoning* behind the patterns in
-[iac-security-patterns](https://github.com/teamiumtree/iac-security-patterns) and the
+[iac-security-patterns](https://github.com/shashiprakashdubey/iac-security-patterns) and the
 architecture in
-[gcp-pulumi-reference-architecture](https://github.com/teamiumtree/gcp-pulumi-reference-architecture).
+[gcp-pulumi-reference-architecture](https://github.com/shashiprakashdubey/gcp-pulumi-reference-architecture).
 
 > Generic and anonymized. No company, customer, or environment-specific identifiers — the
 > transferable engineering, not any one org's internals. Figures are illustrative.

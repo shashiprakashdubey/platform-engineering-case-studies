@@ -26,7 +26,7 @@ keys entirely**, not just rotate them.
 
 **Workload Identity Federation (WIF).** GitHub's OIDC token is exchanged directly for a
 short-lived GCP token — no key stored anywhere. (The Pulumi shape is in
-[iac-security-patterns/keyless-ci-wif](https://github.com/teamiumtree/iac-security-patterns/tree/main/keyless-ci-wif).)
+[iac-security-patterns/keyless-ci-wif](https://github.com/shashiprakashdubey/iac-security-patterns/tree/main/keyless-ci-wif).)
 
 The rollout was **incremental, environment by environment**:
 

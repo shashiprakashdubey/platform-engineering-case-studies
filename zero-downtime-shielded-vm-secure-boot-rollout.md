@@ -31,7 +31,7 @@ rather than a fleet-wide flip:
 3. **Enforce the invariant in code.** Rather than flip Secure Boot by hand and hope it stays,
    the VMs were brought under IaC with Shielded VM (Secure Boot + vTPM + Integrity Monitoring)
    as a *managed invariant* — so a regression becomes a visible diff. (Adoption pattern:
-   [iac-security-patterns/adopting-clickops-into-iac](https://github.com/teamiumtree/iac-security-patterns/tree/main/adopting-clickops-into-iac).)
+   [iac-security-patterns/adopting-clickops-into-iac](https://github.com/shashiprakashdubey/iac-security-patterns/tree/main/adopting-clickops-into-iac).)
 
 ## What made it non-trivial
 

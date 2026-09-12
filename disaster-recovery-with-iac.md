@@ -78,4 +78,4 @@ stateful by default, keep your backups (including the IaC state) off-box, and pr
 operations before you need them.
 
 *(Mechanics reference:
-[gcp-pulumi-reference-architecture › disaster-recovery](https://github.com/teamiumtree/gcp-pulumi-reference-architecture/blob/main/docs/disaster-recovery.md).)*
+[gcp-pulumi-reference-architecture › disaster-recovery](https://github.com/shashiprakashdubey/gcp-pulumi-reference-architecture/blob/main/docs/disaster-recovery.md).)*

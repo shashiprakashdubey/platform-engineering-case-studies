@@ -47,7 +47,7 @@ or partial member set to the live role.
 The reason two bindings existed is that nothing *stopped* a second one from being added. So the
 consolidation shipped with an **AST regression test** that parses the source and fails CI if any
 role ever has more than one authoritative binding again. (That test is in
-[iac-security-patterns/authoritative-iam](https://github.com/teamiumtree/iac-security-patterns/tree/main/authoritative-iam).)
+[iac-security-patterns/authoritative-iam](https://github.com/shashiprakashdubey/iac-security-patterns/tree/main/authoritative-iam).)
 A comment saying "don't add another binding" would have rotted; a test doesn't.
 
 ## Verification
