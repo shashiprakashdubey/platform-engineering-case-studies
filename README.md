@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
-![Case studies](https://img.shields.io/badge/write--ups-7-555?style=flat-square)
+![Case studies](https://img.shields.io/badge/write--ups-9-555?style=flat-square)
 
-**What this is** — seven write-ups of infrastructure migrations I led: the problem, the
+**What this is** — nine write-ups of infrastructure migrations I led: the problem, the
 constraints that made it non-trivial, the approach, and how I knew it worked.
 **Who it's for** — engineers about to attempt the same change, who want to know where the
 landmines are before they step on one.
@@ -34,6 +34,8 @@ architecture in
 | **[Cost optimization with empirical safety gating](cost-optimization-with-empirical-safety-gating.md)** | Cutting cloud spend without deleting something that turns out to be load-bearing. |
 | **[Standing up a new UAT environment with Pulumi](standing-up-a-new-uat-environment-with-pulumi.md)** | Building a complete, isolated new environment from existing stacks — without writing new code. |
 | **[Disaster recovery with IaC](disaster-recovery-with-iac.md)** | Giving every resource class an explicit, rehearsed recovery path — recreate vs. restore. |
+| **[Auditing an alerting estate, policy by policy](auditing-an-alerting-estate-policy-by-policy.md)** | Deciding what pages, what chats and what gets deleted — and why an alert that *cannot fire* is worse than no alert. |
+| **[Detecting drift in what IaC cannot manage](detecting-drift-in-what-iac-cannot-manage.md)** | Watching the security-relevant fields `preview` is structurally blind to, with read-only identities and a guard on the schedule. |
 
 ## The through-line
 
